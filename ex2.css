@@ -1,0 +1,49 @@
+﻿.form-control {
+    width: 300px;
+}
+
+#choise {
+    float: left;
+}
+
+#questAns {
+    float: left;
+}
+
+#true {
+    margin: 30px;
+}
+
+#question-text {
+    font-weight: bold;
+    font-size: larger;
+}
+
+#question, #answer {
+    padding: 0px 0px 0px 10px;
+    border: 2px solid black;
+    margin: 50px 0px 5px;
+}
+
+.container-fluid {
+    background-image: url("https://ak8.picdn.net/shutterstock/videos/14448688/thumb/1.jpg");
+    background-size: cover;
+    padding: 20px 100px;
+}
+
+.startButton {
+    padding: 0px 0px 5px;
+}
+
+.btn-group-vertical > button {
+    margin-bottom: 10px;
+}
+
+.ansBtn {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#answer {
+    height: 30%;
+}

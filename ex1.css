@@ -1,0 +1,46 @@
+﻿#btn {
+    background-color: forestgreen !important;
+    box-shadow: 1px 1px 1px 1px;
+    color: white;
+}
+
+#code {
+    height: 100%;
+    width: 98%;
+    border: none;
+}
+
+.row-bottom {
+    bottom: 0px;
+    height: 83%;
+    background-color: whitesmoke !important;
+    padding: 0px 5px 5px 0px;
+}
+
+.row-top {
+    height: 10%;
+    background-color: white !important;
+    background-image: url("https://www.acurax.com/wp-content/themes/acuraxsite/images/inner_page_bnr.jpg?x21789");
+}
+
+.row-mid {
+    padding: 0px 0px 0px 10px;
+    background-color: whitesmoke !important;
+    height: 5%;
+}
+
+.col {
+    height: 100%;
+    top: 10px;
+    border: 2px outset gray;
+    float: left;
+    background-color: white !important;
+}
+
+.col-left {
+    margin: 0px 5px;
+}
+
+textarea:focus {
+    outline: 0;
+}
